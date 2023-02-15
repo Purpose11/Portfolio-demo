@@ -324,6 +324,9 @@ nav{
     .item2{
         text-align: center;
         padding: 5 10px;
+    }
+    .item2 p{
+        padding: 0 10px;
     }.item2 button{
         margin-top: -10px;
     }
@@ -348,6 +351,9 @@ nav{
         margin-top: 20px;
         padding-top: 10px;
     }
+    .serve h1{
+        padding-top: 10px;
+    }
     .service{
         width: 80%;
         padding: 10px;
@@ -360,10 +366,10 @@ nav{
         width: 120px;
     }.hire{
        margin-top: 800px;
-       height: 300px;
-    }.hire {
-        font-size: 30px;
-    }.hire button{
+       height: 250px;
+       font-size:30px;
+    }
+    .hire button{
         height: 40px;
         width: 120px;
     }
